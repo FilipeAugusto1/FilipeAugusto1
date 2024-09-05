@@ -1,5 +1,4 @@
-<img align="left" height="300" src="https://w0.peakpx.com/wallpaper/704/940/HD-wallpaper-jujutsu-kaisen-episode-8-discussion-gallery-anime-shelter-jujutsu-anime-anime-guys-funny-gojo.jpg"  />
-<img align="right" height="300" src="https://raw.githubusercontent.com/FilipeAugusto1/FilipeAugusto1/output/snake.svg" alt="Snake animation" />
+<img align="right" height="300" src="https://w0.peakpx.com/wallpaper/704/940/HD-wallpaper-jujutsu-kaisen-episode-8-discussion-gallery-anime-shelter-jujutsu-anime-anime-guys-funny-gojo.jpg"  />
 
 ###
 
@@ -7,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -47,19 +46,31 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/filipeaugustodev/" target="_blank">
+  <a href="//www.linkedin.com/in/filipeaugustodev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/776130885413634058" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=filipeaugustooli18@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="gmail.com/filipeaugustooli18@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=filipeaugusto1@live.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
+  <a href="mailto:filipeaugusto1@live.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/filipeaugusto1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/FilipeAugusto1/FilipeAugusto1/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FilipeAugusto1/count.svg?"  />
+</div>
+
+###
