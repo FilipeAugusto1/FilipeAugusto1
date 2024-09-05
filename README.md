@@ -1,4 +1,5 @@
-<img align="right" height="300" src="https://w0.peakpx.com/wallpaper/704/940/HD-wallpaper-jujutsu-kaisen-episode-8-discussion-gallery-anime-shelter-jujutsu-anime-anime-guys-funny-gojo.jpg"  />
+<img align="left" height="300" src="https://w0.peakpx.com/wallpaper/704/940/HD-wallpaper-jujutsu-kaisen-episode-8-discussion-gallery-anime-shelter-jujutsu-anime-anime-guys-funny-gojo.jpg"  />
+<img align="right" height="300" src="https://raw.githubusercontent.com/FilipeAugusto1/FilipeAugusto1/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -62,13 +63,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
-<img align="left" height="250" src="https://w0.peakpx.com/wallpaper/1012/643/HD-wallpaper-gojo-funny.jpg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/FilipeAugusto1/FilipeAugusto1/output/snake.svg" alt="Snake animation" />
-
-###
