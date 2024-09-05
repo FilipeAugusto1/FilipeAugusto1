@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://w0.peakpx.com/wallpaper/704/940/HD-wallpaper-jujutsu-kaisen-episode-8-discussion-gallery-anime-shelter-jujutsu-anime-anime-guys-funny-gojo.jpg"  />
+<img align="right" height="275" src="https://w0.peakpx.com/wallpaper/704/940/HD-wallpaper-jujutsu-kaisen-episode-8-discussion-gallery-anime-shelter-jujutsu-anime-anime-guys-funny-gojo.jpg"  />
 
 ###
 
